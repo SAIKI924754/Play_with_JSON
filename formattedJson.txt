@@ -1,0 +1,47 @@
+{
+    'weather': [
+    {
+        'DT': '100',
+        'Coulmn': 'North',
+        'City': 'Hyderabad',
+        'Weather': 21
+    },
+    {
+        'DT': '200',
+        'Coulmn': 'North',
+        'City': 'Mathura',
+        'Weather': 23
+    }
+
+],
+    'humidity': [
+
+    {
+        'DT': '100',
+        'Coulmn': 'North',
+        'City': 'Hyderabad',
+        'Humidity': 10
+    },
+    {
+        'DT': '200',
+        'Coulmn': 'North',
+        'City': 'Mathura',
+        'Humidity': 15
+    }
+
+],
+    'temprature': [
+    {
+        'DT': '100',
+        'Coulmn': 'North',
+        'City': 'Hyderabad',
+        'Temprature': 32.5
+    },
+    {
+        'DT': '200',
+        'Coulmn': 'North',
+        'City': 'Mathura',
+        'Temprature': 34
+    }
+]
+}
