@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3624a8f-9e1c-42e3-b0cf-6b50a7eeaa9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Play_with_JSON.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603011465158</updated>
       <workItem from="1603011466216" duration="3397000" />
-      <workItem from="1603057861228" duration="17611000" />
+      <workItem from="1603057861228" duration="17745000" />
     </task>
     <servers />
   </component>
